@@ -13,7 +13,7 @@ This repository contains code for predicting real-time energy prices using deep 
 
 1. Install the required dependencies: `pip install -r requirements.txt`
 2. Set TRAIN = False to use the already trained models and their performance metrics.
-Set TRAIN = True to train the models and evaluate their performance.
+3. Set TRAIN = True to train the models and evaluate their performance.
 
 ## Files
 
